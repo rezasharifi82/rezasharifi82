@@ -12,11 +12,10 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rezasharifi82&label=views&color=1f6feb&style=flat-square" alt="views"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=rezasharifi82&label=views&color=1f6feb&style=flat-square" alt="views"/> -->
 <img src="https://img.shields.io/badge/Q1_Journal-Springer_Nature-2ea043?style=flat-square" alt="q1"/>
 <img src="https://img.shields.io/badge/IEEE_%2B_Conference-2_papers-1f6feb?style=flat-square" alt="conf"/>
 <img src="https://img.shields.io/badge/Focus-Software_Quality_for_ML-8b5cf6?style=flat-square" alt="focus"/>
-<img src="https://img.shields.io/badge/TOEFL_iBT-100-f0883e?style=flat-square" alt="toefl"/>
 <img src="https://img.shields.io/badge/Status-Open_to_PhD_%26_Research_Collab-ff6b6b?style=flat-square" alt="status"/>
 
 </div>
@@ -34,16 +33,15 @@
 name         : Mohammadreza Sharifi
 role         : Computer Engineer · ML Researcher · Site Reliability Engineer
 degree       : B.Sc. Computer Engineering — Ferdowsi University of Mashhad (2026)
-gpa          : 3.36 / 4.00
 location     : Mashhad, Iran
-language     : English (TOEFL iBT 100 · R29 L23 S24 W24) · Persian (native)
+language     : English · Persian (native)
 research     :
   - software quality engineering for ML-integrated systems
   - technical debt detection & prevention in ML pipelines
   - data-efficient and reliable deep learning
   - empirical software engineering for AI products
 motto        : "Libertà!"
-status       : open to Ph.D. and research collaborations
+status       : open to research collaborations
 ```
 
 **One-liner.** I sit at the boundary between empirical ML research and the software systems that carry it to production. First author of a Q1 journal paper and two conference papers on data-efficient deep learning and entity resolution. Day-to-day I build reproducible ML pipelines as an SRE — which is exactly where I first ran into the gap between *"the model passes the tests"* and *"the model still works next week."* That gap is what I want to study next.
@@ -183,20 +181,6 @@ $ ls -la ~/stack/
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,vscode,idea&perline=10" alt="db"/>
 </p>
 
----
-
-## `~/stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rezasharifi82&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
-<img height="170" src="https://streak-stats.demolab.com?user=rezasharifi82&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff" alt="streak"/>
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezasharifi82&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="langs"/>
-
-</div>
 
 ---
 
